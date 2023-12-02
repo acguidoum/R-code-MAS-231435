@@ -2,15 +2,15 @@
 ##                    Sat Dec  2 01:24:15 2023                       #
 ##                  A.C. GUIDOUM and K. BOUKHETALA                   #
 ######################################################################
-##                Supplementary material for                         #
-##  Exact higher-order moments for linear non-homogeneous            # 
-##              stochastic differential equation                     #                        
+##                    Supplementary material for                     #
+##        Exact higher-order moments for linear non-homogeneous      # 
+##                stochastic differential equation                   #                        
 ######################################################################
 ######################################################################
 ##                 readers can be replicate the results              #
 ######################################################################
 
-## load "Sim.DiffProc" package and others packages
+## Load "Sim.DiffProc" package and other packages
 
 if (!require("Sim.DiffProc")) {
     install.packages("Sim.DiffProc")
