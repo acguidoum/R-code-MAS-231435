@@ -3,4 +3,4 @@
 [![MASA](https://img.shields.io/badge/DOI-10.3233/MAS--231435-blue)](https://dx.doi.org/10.3233/MAS-231435) 
 # R-code/Supplementary material 
 ## Readers may reproduce the results published in
-### Exact higher-order moments for linear non-homogeneous stochastic differential equation, Model Assisted Statistics and Applications, vol. 18, no. 4, pp. 321-329, 2023
+### Exact higher-order moments for linear non-homogeneous stochastic differential equation, Model Assisted Statistics and Applications, vol. 18, no. 4, pp. 321-329, 2023.
